@@ -1,4 +1,4 @@
-# What's produced more value--YCombinator's investments or HackerNews?
+# What's produced more value--YCombinator's investments or Hacker News?
 
 ## Intro
 
@@ -26,7 +26,7 @@ an hour when online.
 ## And your point?
 
 This got me wondering **which has created more 'value'--the YCombinator investments
-or HackerNews**?
+or Hacker News**?
 
 First let me start by saying that 'value' is subjective. Beauty is in the eye of
 the beholder. 
@@ -66,34 +66,34 @@ in total. But I'm neither asking for that info, expect to get it, or am implying
 that I even want to know. I respect their privacy and this isn't meant to be an
 excercise in examining YCombinator's finances.
 
-### HackerNews valuation
+### Hacker News valuation
 
 This value is much harder to quanitfy. First it's worth noting that if
-HackerNews were a regular tech news site like
+Hacker News were a regular tech news site like
 [techcrunch](http://techcrunch.com/), or [techmeme](http://techmeme.com/) it
 would probably have some outrageous valuation due to the high traffic. 
 
 But that's not really what I'm talking about here. What I'm talking about is
 value to the individual users to the site.
 
-HackerNews is really the go to spot for up to date info on the most important
+Hacker News is really the go to spot for up to date info on the most important
 and interesting things related to the startup industry. It's actually become
 critical to the way I do my job.
 
 A good example is the multiple recent rails and ruby security issues. I found
 out about those pretty much as soon as news hit the wire because they were at
-the top of HackerNews. 
+the top of Hacker News. 
 
 Another example is just staying on top of general trends, frameworks,
 conferences, and new products. Each day I'm guaranteed to see something that
 I **need** to know in order to do what I do.
 
-The community on HackerNews has proven to be resilient despite the occasional
+The community on Hacker News has proven to be resilient despite the occasional
 troll. Conversations are intelligent and and informed with Paul Graham himself weighing
 in surprisingly often.
 
 So how do you quantify that? Considering that most of the future batches of
-YCombinator will have surely been inspired by HackerNews you could argue that
+YCombinator will have surely been inspired by Hacker News you could argue that
 some of the value there can be attributed to the site.
 
 ## Summary
@@ -101,11 +101,11 @@ some of the value there can be attributed to the site.
 So, some shoddy math shows that YComninator has early stage invested in over 300
 companies which have generated Billions of dollars in valuations alone.
 
-But the tribe of people on HackerNews are sharing information that is shaping
+But the tribe of people on Hacker News are sharing information that is shaping
 the industry which in turn produces the great startups that YCombinator then
 funds. It's truly a virtuous cycle.
 
 My conclusion is that though YCombinator has helped generate Billions of dollars
-in wealth HackerNews is generating greater wealth by connecting, training, and
+in wealth Hacker News is generating greater wealth by connecting, training, and
 inspiring the next generation of business owners, entrepreneurs, hackers,
 makers, and artists.
