@@ -109,3 +109,5 @@ My conclusion is that though YCombinator has helped generate Billions of dollars
 in wealth Hacker News is generating greater wealth by connecting, training, and
 inspiring the next generation of business owners, entrepreneurs, hackers,
 makers, and artists.
+
+Thanks for reading! Follow me on [Twitter](http://twitter.com/cgcardona) or [G+](https://plus.google.com/u/0/106993790975969476239) for more.
