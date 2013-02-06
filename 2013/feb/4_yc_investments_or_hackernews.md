@@ -1,4 +1,4 @@
-# What's produced more value--YCombinator's investments or HackerNews
+# What's produced more value--YCombinator's investments or HackerNews?
 
 ## Intro
 
