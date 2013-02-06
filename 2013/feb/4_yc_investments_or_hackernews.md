@@ -40,7 +40,7 @@ But nonetheless let's do some simple back of the envelope caluculations.
 
 ### YCombinator investments
 
-Per [wikipedia](http://en.wikipedia.org/wiki/Y_Combinator_(company)):
+Per [wikipedia](http://en.wikipedia.org/wiki/Y_Combinator_(company\)):
 
 > The average valuation of Y Combinator-backed companies, according to co-founder Paul Graham, is $45.2 million.
 
@@ -48,8 +48,8 @@ and
 
 > As of June 2011, Y Combinator had funded 316 startups.
 
-[Wolfram Alpha](http://www.wolframalpha.com/input/?i=42.5+million+*+316) tells
-me that comes out to $13,430,000,000.
+[Wolfram Alpha](http://www.wolframalpha.com/input/?i=$45.2+million+*+316) tells
+me that comes out to $14,280,000,000.
 
 That number is a simplification and is clearly flawed because:
 
