@@ -68,7 +68,7 @@ excercise in examining YCombinator's finances.
 
 ### Hacker News valuation
 
-This value is much harder to quanitfy. First it's worth noting that if
+This value is much harder to quantify. First it's worth noting that if
 Hacker News were a regular tech news site like
 [techcrunch](http://techcrunch.com/), or [techmeme](http://techmeme.com/) it
 would probably have some outrageous valuation due to the high traffic. 
