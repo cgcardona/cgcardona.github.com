@@ -98,16 +98,16 @@ some of the value there can be attributed to the site.
 
 ## Summary
 
-So, some shoddy math shows that YComninator has early stage invested in over 300
+So, some shoddy math shows that YCombinator has early stage invested in over 300
 companies which have generated Billions of dollars in valuations alone.
 
 But the tribe of people on Hacker News are sharing information that is shaping
 the industry which in turn produces the great startups that YCombinator then
 funds. It's truly a virtuous cycle.
 
-My conclusion is that though YCombinator has helped generate Billions of dollars
-in wealth Hacker News is generating greater wealth by connecting, training, and
+My conclusion is that though YCombinator has helped generate billions of dollars
+in wealth, Hacker News is generating greater wealth by connecting, training, and
 inspiring the next generation of business owners, entrepreneurs, hackers,
-makers, and artists.
+makers and artists.
 
 Thanks for reading! Follow me on [Twitter](http://twitter.com/cgcardona) or [G+](https://plus.google.com/u/0/106993790975969476239) for more.
