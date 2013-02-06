@@ -3,7 +3,7 @@
 ## Intro
 
 There's no doubt that [Paul Graham](http://www.paulgraham.com/) is changing the
-world. His company [YComninator](http://ycombinator.com/) is finding the
+world. His company [YCombinator](http://ycombinator.com/) is finding the
 smartest and most creative people and is funding them to create
 businesses that disrupt the traditional players.
 
