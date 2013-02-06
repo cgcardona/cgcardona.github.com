@@ -19,9 +19,9 @@ personally and that's [Hacker News](http://news.ycombinator.com/).
 I'm a software developer. It's how I make my living and it's what I'm passionate
 about. About 2 years ago a friend told me about hacker news. He said there was tons of stuff that I'd dig.
 
-Over time it has proved to be such a crucial source of information regarding the
+Over time it has proven to be such a crucial source of information regarding the
 software industry that I now have it as my homepage and go to it multiple times
-an hour when online.
+an hour when free online.
 
 ## And your point?
 
