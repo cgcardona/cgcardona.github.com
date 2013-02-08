@@ -5,8 +5,6 @@ description: ""
 ---
 {% include JB/setup %}
 
-# Carlos Cardona's Resume
-
 ## Career Highlights
 
 * HTML5 Specification [Acknowledged Contributor](http://www.w3.org/TR/2010/WD-html5-20100624/acknowledgements.html#acknowledgements)
