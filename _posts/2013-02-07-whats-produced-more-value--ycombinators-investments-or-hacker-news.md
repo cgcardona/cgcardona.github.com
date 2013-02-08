@@ -7,8 +7,6 @@ tags: []
 ---
 {% include JB/setup %}
 
-# What's produced more value--YCombinator's investments or Hacker News?
-
 ## Intro
 
 There's no doubt that [Paul Graham](http://www.paulgraham.com/) is changing the
