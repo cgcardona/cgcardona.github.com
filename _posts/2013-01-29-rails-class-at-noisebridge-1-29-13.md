@@ -67,7 +67,7 @@ Create a directory with `mkdir acceptance`
 
 Go into the `acceptance` dir with `cd acceptance`
 
-Create and edit a file called `welcome_page_spec.rb` (*spec file need to end in _spec.rb)
+Create and edit a file called `welcome_page_spec.rb` (spec file need to end in spec.rb)
 
 ##### Contents of `welcome_page_spec.rb`
 

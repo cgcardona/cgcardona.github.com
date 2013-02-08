@@ -49,7 +49,7 @@ At a certain level there is only so far that I can stretch this analogy. After a
 
 On another level the comparison fits nearly perfectly. Both men were technical geniuses who were not only working ahead of their time but were in fact inventing tools and concepts that would be used by an entire generation of their peers.
 
-The core problem that both men faced is that the way they thought and acted was just too progressive for their time. Turing for instance had a **boyfriend**. That's it. Yeah. Really. That's it. :-[
+The core problem that both men faced is that the way they thought and acted was just too progressive for their time. Turing for instance had a **boyfriend**. That's it. Yeah. Really. That's it. :(
 
 Because he had such a high security clearance he was considered a great threat for blackmail by the British Intelligence Services and was under constant surveillance during the last days of his life.
 
