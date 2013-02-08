@@ -31,3 +31,7 @@ this [password generator](https://www.grc.com/passwords.htm).
 Also, never share the same password between accounts. If you have any other
 accounts (bank, other email accounts, etc) which use the same password as your
 hacked email account change the passwords on those accounts immediately.
+
+Also, here is a [great comic from XKCD and thread on
+security.stackexchange.com](http://security.stackexchange.com/questions/6095/xkcd-936-short-complex-password-or-long-dictionary-passphrase)
+on creating safe passwords passed along by [Oscar Godson](http://twitter.com/oscargodson).
