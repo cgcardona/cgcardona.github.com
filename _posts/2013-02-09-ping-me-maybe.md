@@ -98,3 +98,7 @@ Somewhat quiet output.
 Record route. Many hosts ignore or discore the record route option.
 
     ping -R localhost
+
+## More info
+
+`ping` [Wikipedia page](http://en.wikipedia.org/wiki/Ping_(networking_utility))
