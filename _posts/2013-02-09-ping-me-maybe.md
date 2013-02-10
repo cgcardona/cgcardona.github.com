@@ -3,12 +3,14 @@ layout: post
 title: "Ping me maybe"
 description: ""
 category: 
-tags: ['network']
+tags: ['network', 'code']
 ---
 {% include JB/setup %}
 
 [ping](http://linux.die.net/man/8/ping) is a command that tests a source
 computer's connection with a destination machine.
+
+Open your terminal and give one of the following  a try.
 
     ping localhost
     ping 127.0.0.1
