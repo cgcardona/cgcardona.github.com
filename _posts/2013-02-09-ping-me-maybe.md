@@ -22,14 +22,14 @@ Like any good Unix command `ping` has a host of flags. Let's explore some.
 
 ### `-A` `audible`
 
-Sound audible beep when a packet is received before the packet what was sent
+Sound an audible beep when a packet is received before the packet what was sent
 before it.
 
     ping -A localhost
 
 ### `-a` `audible`
 
-Sound audible beep when a packet is received
+Sound an audible beep when a packet is received
 
     ping -a localhost
 
@@ -67,7 +67,7 @@ mode of behavior.
 
 Only a SuperUser can use this command.
 
-    ping -l localhost
+    ping -l 100 localhost
 
 ### `-n` 
 
