@@ -90,3 +90,9 @@ Quiet output. Only show summary at startup time and when finished.
 Somewhat quiet output. 
 
     ping -Q localhost
+
+### `-R` 
+
+Record route. Many hosts ignore or discore the record route option.
+
+    ping -R localhost
