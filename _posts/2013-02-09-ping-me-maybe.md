@@ -29,9 +29,9 @@ before it.
 
 ### `-a` `audible`
 
-    ping -a localhost
-
 Sound audible beep when a packet is received
+
+    ping -a localhost
 
 ### `-c` `count`
 
