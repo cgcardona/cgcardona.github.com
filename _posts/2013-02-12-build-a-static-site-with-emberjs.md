@@ -131,7 +131,7 @@ conceptually to `app/views/layouts/application.html.erb`.
 Remove `<p>Your content here.</p>`. We'll be adding per route specific content
 to the templates in a moment.
 
-The `<pre>{{outlet}}</pre>` is similar to `<%= yield %>`. It's where your different
+The {{outlet}} is similar to `<%= yield %>`. It's where your different
 templates for each route will get inserted.
 
 ## Set up your index controller/template
@@ -154,8 +154,9 @@ Now create the index template `app/assets/javascripts/templates/index.hbs` and
 add handlebar template variables for the `name` that we added in the controller.
 Also add a link to an `about` route that we are going to create.
 
-   Hello {{name}}!
-   {{#linkTo 'about'}}About page{{/linkTo}}
+Hello {{name}}!
+
+{{#linkTo 'about'}}About page{{/linkTo}}
 
 ## Set up a Route
 
@@ -176,8 +177,9 @@ Start by create an `about` controller at `app/assets/javascripts/controllers/abo
 
 Next create an `about` template at `app/assets/javascripts/templates/about.hbs`
 
-   About: {{name}}
-   {{#linkTo 'index'}}Index page{{/linkTo}}
+About: {{name}}
+
+{{#linkTo 'index'}}Index page{{/linkTo}}
 
 ## Thats all folks!
 
