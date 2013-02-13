@@ -131,7 +131,7 @@ conceptually to `app/views/layouts/application.html.erb`.
 Remove `<p>Your content here.</p>`. We'll be adding per route specific content
 to the templates in a moment.
 
-The `{{outlet}}` is similar to `<%= yield %>`. It's where your different
+The `<pre>{{outlet}}</pre>` is similar to `<%= yield %>`. It's where your different
 templates for each route will get inserted.
 
 ## Set up your index controller/template
@@ -185,7 +185,7 @@ And that's an extremely simple and static site built with ember.js and rails.
 There are some pretty critical things missing such as:
 
 * Binding
-* Generated Properties
+* Computed Properties
 * Ember Data
 
 Let's not kid ourselves. Ember.js is capable of **way** more. This was simply
