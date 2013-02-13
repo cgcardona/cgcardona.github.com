@@ -15,6 +15,8 @@ Ruby on Rails using the `ember-rails` gem.
 It shows how to set up a basic Route and points out that routes map to
 controllers and templates.
 
+This uses the [Ember.js Version: v1.0.0-pre.4](https://raw.github.com/emberjs/ember.js/release-builds/ember-1.0.0-pre.4.js) API.
+
 Check out a live example: [http://ember-static.herokuapp.com/](http://ember-static.herokuapp.com/)
 
 ## Create a git repo
