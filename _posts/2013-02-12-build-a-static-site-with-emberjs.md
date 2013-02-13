@@ -96,6 +96,10 @@ Edit `config/environments/development.rb` and add
 
     config.ember.variant = :development
 
+Also edit `config/environments/production.rb` and add 
+
+    config.ember.variant = :production
+
 Using the handy `ember-rails` generator bootstrap the client side MVC directory
 structure.
 
