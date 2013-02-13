@@ -21,7 +21,7 @@ Check out a live example: [http://ember-static.herokuapp.com/](http://ember-stat
 
 ## Create a git repo
 
-I've created a new repo on [Github](http://github.com) and clone it to my machine
+I've created a new repo on [Github](https://github.com/cgcardona/ember_static) and clone it to my machine
 
     $ git clone git@github.com:cgcardona/ember_static.git 
     Cloning into 'ember_static'...
