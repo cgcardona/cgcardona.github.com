@@ -7,7 +7,7 @@ tags: ['javascript', 'code']
 ---
 {% include JB/setup %}
 
-In `javascript`:
+In `javascript` so that odd numbers are on the left and even numbers are on the right:
 
     window.onload = function(){
       function sortArr(theArray){
