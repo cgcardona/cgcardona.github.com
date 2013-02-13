@@ -195,6 +195,8 @@ to a template.
 
 Check this example live at [http://ember-static.herokuapp.com/](http://ember-static.herokuapp.com/)
 
+Clone the code at: [https://github.com/cgcardona/ember_static](https://github.com/cgcardona/ember_static)
+
 ## More info
 
 * [Official Ember.js site](http://emberjs.com/)
