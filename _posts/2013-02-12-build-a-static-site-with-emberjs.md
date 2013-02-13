@@ -1,5 +1,4 @@
----
-layout: post
+--- layout: post
 title: "Build a static site with Ember.js"
 description: ""
 category: 
@@ -7,17 +6,27 @@ tags: ['emberjs', 'javascript', 'code', 'handlebars']
 ---
 {% include JB/setup %}
 
+## TLDR
+
+This is how to set up an **extremely** simple and static site with Ember.js and
+Ruby on Rails using the `ember-rails` gem.
+
+It shows how to set up a basic Route and points out that routes map to
+controllers and templates.
+
+Check out a live example: [http://ember-static.herokuapp.com/](http://ember-static.herokuapp.com/)
+
 ## Create a git repo
 
 I've created a new repo on [Github](http://github.com) and clone it to my machine
 
-   $ git clone git@github.com:user/app_name.git 
-   Cloning into 'ember_static'...
-   remote: Counting objects: 65, done.
-   remote: Compressing objects: 100% (48/48), done.
-   remote: Total 65 (delta 3), reused 62 (delta 3)
-   Receiving objects: 100% (65/65), 20.94 KiB, done.
-   Resolving deltas: 100% (3/3), done.
+    $ git clone git@github.com:user/app_name.git 
+    Cloning into 'ember_static'...
+    remote: Counting objects: 65, done.
+    remote: Compressing objects: 100% (48/48), done.
+    remote: Total 65 (delta 3), reused 62 (delta 3)
+    Receiving objects: 100% (65/65), 20.94 KiB, done.
+    Resolving deltas: 100% (3/3), done.
 
 ## Create a new rails app
 
@@ -43,7 +52,7 @@ the `Gemfile` in the next step.
 
 ## Edit the Gemfile
 
-Now you want to edit the `Gemfile` to include the `ember-rails` gem. Open the
+Now you want to edit the `Gemfile` to include the [ember-rails](https://github.com/emberjs/ember-rails) gem. Open the
 `Gemfile` in your favorite text editor and add the following lines.
 
     gem 'ember-rails', '~> 0.9.2' 
@@ -106,3 +115,80 @@ handlebars file.
     $ mv app/assets/javascripts/templates/application.handlebars app/assets/javascripts/templates/application.hbs
 
 Ah, that's better. Onward. 
+
+## Set up your overall application markup
+
+Open `app/assets/javascripts/templates/application.hbs`. This is similar
+conceptually to `app/views/layouts/application.html.erb`.
+
+Remove `<p>Your content here.</p>`. We'll be adding per route specific content
+to the templates in a moment.
+
+The `{{outlet}}` is similar to `<%= yield %>`. It's where your different
+templates for each route will get inserted.
+
+## Set up your index controller/template
+
+Ember.js is rails like in the sense that there is a certain convention over
+configuration. In this case without setting up a route the root url maps to an
+index controller and index template
+
+Create the index controller `app/assets/javascripts/controllers/index_controller.js`
+
+    emberStatic.IndexController = Ember.Controller.extend({
+        name : 'carlos cardona'
+    });
+
+Notice that it's just an IndexController which extends Ember.Controller. Also
+notice that we've added a `name` property which we'll display in our template
+next.
+
+Now create the index template `app/assets/javascripts/templates/index.hbs` and
+add handlebar template variables for the `name` that we added in the controller.
+Also add a link to an `about` route that we are going to create.
+
+   Hello {{name}}!
+   {{#linkTo 'about'}}About page{{/linkTo}}
+
+## Set up a Route
+
+To see how routing works open up `app/assets/javascripts/router.js` and add a
+route to an `about` page
+
+    EmberStatic.Router.map(function() {
+      this.route("about", { path : "/about" });
+    });
+
+## Create an `about` controller and template
+
+Start by create an `about` controller at `app/assets/javascripts/controllers/about_controller.js`
+
+    emberStatic.AboutController = Ember.Controller.extend({
+      about : 'This is some about text'
+    });
+
+Next create an `about` template at `app/assets/javascripts/templates/about.hbs`
+
+   About: {{name}}
+   {{#linkTo 'index'}}Index page{{/linkTo}}
+
+## Thats all folks!
+
+And that's an extremely simple and static site built with ember.js and rails.
+There are some pretty critical things missing such as:
+
+* Binding
+* Generated Properties
+* Ember Data
+
+Let's not kid ourselves. Ember.js is capable of **way** more. This was simply
+meant to be a demonstration of how routes work and how each route is mapped to a
+controller and template. We also looked at how to pass a value from a controller
+to a template.
+
+Check this example live at [http://ember-static.herokuapp.com/](http://ember-static.herokuapp.com/)
+
+## More info
+
+* [Official Ember.js site](http://emberjs.com/)
+* [Official Handlebars site](http://handlebarsjs.com/)
