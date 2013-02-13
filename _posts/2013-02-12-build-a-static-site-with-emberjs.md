@@ -21,7 +21,7 @@ Check out a live example: [http://ember-static.herokuapp.com/](http://ember-stat
 
 I've created a new repo on [Github](http://github.com) and clone it to my machine
 
-    $ git clone git@github.com:user/app_name.git 
+    $ git clone git@github.com:cgcardona/ember_static.git 
     Cloning into 'ember_static'...
     remote: Counting objects: 65, done.
     remote: Compressing objects: 100% (48/48), done.
