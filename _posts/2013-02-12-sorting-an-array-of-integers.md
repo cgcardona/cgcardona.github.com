@@ -53,3 +53,11 @@ In `javascript` so that odd numbers are on the left and even numbers are on the 
       console.log(sortArr([1,2,3,4,5,6]));
       // returns [1, 3, 5, 2, 4, 6] 
     };
+
+[@omniegg](https://twitter.com/omniegg) [weighed
+in](https://twitter.com/omniegg/status/301576200592175104) with the following if
+you have [underscore.js](http://underscorejs.org):
+
+    window.onload = function(){
+        console.log(_.sortBy([1,2,3,4,5], function(n){ return n%2 }));
+    };
