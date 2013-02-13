@@ -1,4 +1,5 @@
---- layout: post
+--- 
+layout: post
 title: "Build a static site with Ember.js"
 description: ""
 category: 
