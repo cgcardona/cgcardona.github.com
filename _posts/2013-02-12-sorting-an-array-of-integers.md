@@ -9,6 +9,38 @@ tags: ['javascript', 'code']
 
 In `javascript` so that odd numbers are on the left and even numbers are on the right:
 
+	window.onload = function(){
+	  function sortArr(theArray){
+	          
+	    var leftPointer = 0;
+	    var rightPointer = theArray.length - 1;
+	          
+	    while(leftPointer < rightPointer) {
+	            
+	      if(((theArray[leftPointer] % 2) !== 0) && ((theArray[rightPointer] % 2) !== 0)){
+	        leftPointer++;
+	      }   
+	      else if(((theArray[leftPointer] % 2) === 0) && ((theArray[rightPointer] % 2) !== 0) || ((theArray[leftPointer] % 2) === 0) && ((theArray[rightPointer] % 2) === 0)){
+	          
+	        var tmp1 = theArray[leftPointer];
+	        var tmp2 = theArray[rightPointer];
+	           
+	        theArray[leftPointer] = tmp2;
+	        theArray[rightPointer] = tmp1;
+	      }   
+	      else{
+	        rightPointer--;
+	      }   
+	    }   
+	        
+	    return theArray;
+	  }
+	  console.log(sortArr([1,2,3,4,5,6]));
+	  // returns [1, 5, 3, 4, 2, 6] 
+	};
+
+[Mike Sealand](https://github.com/msealand) came along with the following and destroyed me with regards to LOC. Also nice use of `.reduce` and `.concat`
+
     window.onload = function(){
       function sortArr(theArray) {
         var separatedArrays = theArray.reduce(function(result, value) {
