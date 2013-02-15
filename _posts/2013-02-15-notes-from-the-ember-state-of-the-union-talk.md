@@ -3,7 +3,7 @@ layout: post
 title: "Notes from the 'Ember State of the Union' talk"
 description: ""
 category: 
-tags: ['emberjs', 'javascript', 'code', 'handlebars']
+tags: ['emberjs', 'emberjs']
 ---
 {% include JB/setup %}
 
