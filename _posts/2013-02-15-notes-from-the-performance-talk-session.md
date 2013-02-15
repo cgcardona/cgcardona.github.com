@@ -73,12 +73,12 @@ Observes changes, schedules work later on the run loop
 
 ### ArrayProxy eagerly consumes 'content'
 
-  App.PricesController = Em.ArrayController.extend{{
+  App.PricesController = Em.ArrayController.extend({
     // ...
     content : function(){
       return this.get('fruitsController.@each.price');
     }.property('fruitsController.@each.price');
-  }};
+  });
 
 ## Dangers of Binding through viewName
 
