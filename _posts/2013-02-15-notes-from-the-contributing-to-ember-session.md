@@ -186,3 +186,4 @@ that we're on the same page. We don't want you to waste your time.
 
 [Ember.js's issues](https://github.com/emberjs/ember.js/issues) live on github. Please check them out and see what you can
 contribute!
+
