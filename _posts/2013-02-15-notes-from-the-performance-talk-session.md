@@ -26,7 +26,7 @@ run loop
 
 * Ember.Binding
 * fooBinding
-* {{foo}}
+* `{{foo}}`
 * Ember.computed
 
 ## View Bindings
