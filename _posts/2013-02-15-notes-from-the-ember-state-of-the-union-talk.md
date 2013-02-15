@@ -7,7 +7,7 @@ tags: ['emberjs', 'emberjs']
 ---
 {% include JB/setup %}
 
-## Opening comments by [Yahuda Katz](https://twitter.com/wycats) and [Tom Dale](https://twitter.com/tomdale)
+## Opening comments by [Yehuda Katz](https://twitter.com/wycats) and [Tom Dale](https://twitter.com/tomdale)
 
 * Ember.js is now 2 years old
 * The new router at the end of 2012 caused the traffic to spike
@@ -59,7 +59,7 @@ features in JS/HTML/CSS.
 
 ### Example from Discourse
 
-Yahuda is showing an example of URLs on
+Yehuda is showing an example of URLs on
 [discourse](http://meta.discourse.org/). Basically showing that `EmberJS` can
 handle infinite scrolling and passing on deep state of the app via a url.
 
@@ -83,7 +83,7 @@ app developers of the importance of passing app state around via URLS.
 1. Peter
 2. Stephan
 3. Trek
-4. Yahuda
+4. Yehuda
 5. Chris
 6. Leah
 7. Eric
@@ -91,11 +91,11 @@ app developers of the importance of passing app state around via URLS.
 
 ## Path to core
 
-The idea is to be community driven. The idea isn't to make Yahuda and Tom
+The idea is to be community driven. The idea isn't to make Yehuda and Tom
 millionaires. They want to bring in other people and companies to distribute
 ownership and responsibility of the app. 
 
-If Yahuda and/or Tom get hit by a bus that shouldn't affect the problem in a
+If Yehuda and/or Tom get hit by a bus that shouldn't affect the problem in a
 major way.
 
 Ember Core team is watching commits on Github. If they notice someone doing
