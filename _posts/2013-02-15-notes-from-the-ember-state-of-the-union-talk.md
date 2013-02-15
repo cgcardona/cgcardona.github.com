@@ -3,7 +3,7 @@ layout: post
 title: "Notes from the 'Ember State of the Union' talk"
 description: ""
 category: 
-tags: ['emberjs', 'emberjs']
+tags: ['emberjs', 'embercamp']
 ---
 {% include JB/setup %}
 
@@ -82,9 +82,9 @@ app developers of the importance of passing app state around via URLS.
 
 1. Peter
 2. Stephan
-3. Trek
-4. Yehuda
-5. Chris
+3. [Trek Glowacki](https://twitter.com/trek)
+4. [Yehuda Katz](https://twitter.com/wycats)
+5. [Kristofor Selden](https://twitter.com/krisselden)
 6. Leah
 7. Eric
 8. Tom Dale
@@ -95,8 +95,7 @@ The idea is to be community driven. The idea isn't to make Yehuda and Tom
 millionaires. They want to bring in other people and companies to distribute
 ownership and responsibility of the app. 
 
-If Yehuda and/or Tom get hit by a bus that shouldn't affect the problem in a
-major way.
+If Yehuda and/or Tom get hit by a bus that shouldn't affect the framework in a major way.
 
 Ember Core team is watching commits on Github. If they notice someone doing
 great work and adding value they will consider ways to move that person to the
