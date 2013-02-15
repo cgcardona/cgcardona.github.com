@@ -48,7 +48,7 @@ It's very helpful to see it visually.
 ### Why is it fast?
 
 * No page loads 
-* 100% synchronous
+* 100% asynchronous
 * No stack. The most expensive thing is the DOM manipulation that Ember does
 
 ## Unit vs Integration
