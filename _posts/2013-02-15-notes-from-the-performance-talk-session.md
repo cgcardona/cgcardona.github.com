@@ -26,12 +26,9 @@ run loop
 
 * Ember.Binding
 * fooBinding
-* `{{foo}}`
 * Ember.computed
 
 ## View Bindings
-
-`{{foo}}`
 
 Observes changes, schedules work later on the run loop
 
