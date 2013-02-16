@@ -12,7 +12,7 @@ tags: ['emberjs', 'embercamp']
 Q: Will the docs evolve to document internal features to make it easier to
 contribute internally
 
-A: That would be great. It's less of a priority to getting people to use the
+A: That would be great. It's more of a priority to getting people to use the
 public API correctly. But I'd love to get to a point where internals are
 documented in that way.
 
