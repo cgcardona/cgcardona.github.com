@@ -15,7 +15,7 @@ tags: ['emberjs', 'embercamp']
 * [Github profile](https://github.com/bcardarella)
 * [Lanyrd profile](http://lanyrd.com/profile/bcardarella/)
 
-[Summary](http://lanyrd.com/2013/ember-camp/sccrwp/)
+## [Summary](http://lanyrd.com/2013/ember-camp/sccrwp/)
 
 > The ClientSideValidations gem for Rails has been the best way to extract
 > validations for the client. Recently Brian has been porting the code over to use
