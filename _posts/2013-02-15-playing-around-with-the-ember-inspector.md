@@ -13,8 +13,9 @@ Today was [Ember Camp](http://www.embercamp.com/) and [Yehuda Katz](https://twit
 [gave a brief introduction](http://cgcardona.github.com/2013/02/15/notes-from-the-ember-state-of-the-union-talk/#ember_inspector) to the 
 [Ember Inspector](https://github.com/tildeio/ember-extension). 
 
-The Ember Inspector is similar in nature, appearance, and functionality to the
-Webkit dev tools but it was built with Ember.js in mind.
+The Ember Inspector adds an `Ember` tab to your Chrome dev tools which
+allows you to leverage these powerful tools to get Ember specific insights into
+your app.
 
 Like many things in the [Ember.js](http://emberjs.com/) the Ember Inspector is relatively new. As such
 it's not even available to download as a proper Chrome extension yet. For now
