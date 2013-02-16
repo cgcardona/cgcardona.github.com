@@ -14,6 +14,11 @@ Mads Kristensen
 * [Twitter profile](https://twitter.com/mkristensen)
 * [Lanyrd profile](http://lanyrd.com/profile/mkristensen/)
 * [Github profile](https://github.com/madskristensen)
+ 
+## Summary
+
+ A lot of the stuff that we do everyday we can do smarter. And we should expect
+ more from our tools. It will completely change the way you create websites.
 
 ## Demos Visual Studio text editing
 
@@ -42,8 +47,3 @@ time in the text editor.
 ## Markdown
 
 * Works the same way
- 
-## Summary
-
- A lot of the stuff that we do everyday we can do smarter. And we should expect
- more from our tools. It will completely change the way you create websites.
