@@ -22,6 +22,10 @@ you'll need to load the Chrome extension from your local machine.
 
 ## Grab a copy
 
+First make sure you have **Chrome 25 or higher**. That's currently the [Beta
+build](https://www.google.com/intl/en/chrome/browser/beta.html) but after the
+next release that will be the main build.
+
 Second clone the [Ember Inspector git repo](ember-extension).
 
     git clone https://github.com/tildeio/ember-extension
