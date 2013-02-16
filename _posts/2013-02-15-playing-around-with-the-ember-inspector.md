@@ -49,7 +49,7 @@ Click the [Enable]() clink to 'Experimental Extension APIs'
 
 ## Restart
 
-Often after toggling a setting in `chrome://flags/` Chrome will prompt you to
+Often after toggling a setting in `chrome://flags/` Chrome will prompt you 
 `Your changes will take effect the next time you relaunch Google Chrome.` which
 is the case this time. 
 
