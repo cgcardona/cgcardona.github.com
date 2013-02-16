@@ -10,8 +10,8 @@ tags: ['emberjs', 'chrome']
 ## Intro
 
 Today was [Ember Camp](http://www.embercamp.com/) and [Yehuda Katz](https://twitter.com/wycats) 
-gave a bried introduction to the 
-[Ember Inspector](http://cgcardona.github.com/2013/02/15/notes-from-the-ember-state-of-the-union-talk/#ember_inspector). 
+[gave a brief introduction](http://cgcardona.github.com/2013/02/15/notes-from-the-ember-state-of-the-union-talk/#ember_inspector) to the 
+[Ember Inspector](https://github.com/tildeio/ember-extension). 
 
 The Ember Inspector is similar in nature, appearance, and functionality to the
 Webkit dev tools but it was built with Ember.js in mind.
@@ -26,7 +26,7 @@ First make sure you have **Chrome 25 or higher**. That's currently the [Beta
 build](https://www.google.com/intl/en/chrome/browser/beta.html) but after the
 next release that will be the main build.
 
-Second clone the [Ember Inspector git repo](ember-extension).
+Second clone the Ember Inspector git repo.
 
     git clone https://github.com/tildeio/ember-extension
 
