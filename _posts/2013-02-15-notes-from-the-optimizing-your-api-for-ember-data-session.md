@@ -49,7 +49,7 @@ and make our APIs easier to consume.
 
 `Ember.js`
 
-### Sever
+### Server
 
 `Rails` with `ActiveModel::Serializers`
 
