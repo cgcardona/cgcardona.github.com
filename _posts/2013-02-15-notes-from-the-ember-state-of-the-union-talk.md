@@ -142,7 +142,7 @@ Core team.
 
 ### Ember Inspector
 
-JS Inspector is great but Ember Inspector provide a debugging tool that is on a higher level.  Lets you see whats happening in the code with regards to an Ember.js
+JS Inspector is great but [Ember Inspector](https://github.com/tildeio/ember-extension) provide a debugging tool that is on a higher level.  Lets you see whats happening in the code with regards to an Ember.js
 perspective.
 
 #### Features
