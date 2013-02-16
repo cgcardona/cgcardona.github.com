@@ -15,6 +15,21 @@ tags: ['emberjs', 'embercamp']
 * [Twitter profile](https://twitter.com/elucid)
 * [Lanyrd profile](http://lanyrd.com/profile/elucid/)
 
+## [Summary](http://lanyrd.com/2013/ember-camp/sccrwb/)
+
+> What does an Ember app actually look like in practice? How do features like
+> computed properties, data bindings, and state machine-based structure come
+> together to make a real application?
+
+> In this talk we will explore a medium-sized Ember app. We will go over
+> high-level app structure and investigate specific techniques and idioms that
+> commonly appear. The application source will be available on Github so that you
+> can follow along in your favorite editor or dig in afterwards when you want to
+> refresh your memory.
+
+> By the end you should have a practical sense of what makes the framework useful
+> and what makes writing apps with Ember so enjoyable.
+
 ## Goal
 * Show what building an app feels like
 * Focus on how things fit together
