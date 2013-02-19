@@ -14,7 +14,6 @@ are actual several modules. To see this in action clone the [Ember.js github rep
 running: 
 
     $ rake dist 
-    /Users/cgcardona/Sites/ember.js/Rakefile:6: warning: already initialized constant EMBER_VERSION
     Building Ember...
     Done
 
