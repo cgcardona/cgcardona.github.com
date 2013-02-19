@@ -84,7 +84,7 @@ To test out `this._super()` call the `say()` method.
 One of the cool things about Ember.js is Key/Value observers. You can tie
 objects together based on fluctuating values of properties.
 
-Here we want to create a `PropertyObserverClass` which will have a `propertyDidChange` method. The method will take `sender`. `key`, `value`, and
+Here we want to create a `PropertyObserverClass` which will have a `propertyDidChange` method. The method will take `sender`, `key`, `value`, and
 `rev` per the docs for the [addObserver
 method](http://emberjs.com/api/classes/Ember.Object.html#method_addObserver).
 The method will just log to the console the name of the property that changed
