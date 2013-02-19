@@ -64,10 +64,6 @@ Next create a `ManClass` which extends the `HumanClass`. Notice `this._super()`.
       }
     })
 
-To test this out call the `say()` method.
-
-    manInstance.say(); // demonstrates this._super();
-
 ### Create an instance
 
 Now use the `create()` method to create an instance of your class. The values
@@ -78,6 +74,10 @@ you defined on your class.
       fname : 'Carlos', 
       lname : 'Cardona' 
     });
+
+To test out `this._super()` call the `say()` method.
+
+    manInstance.say(); // demonstrates this._super();
 
 ## Add Key/Value Observers
 
