@@ -117,3 +117,9 @@ assigned to `this`. Ex:
      // logs 'baz'
     }
     foobar();
+
+## Summary
+
+`trim`, `trimLeft`, and `trimRight` as well as default parameter values are some
+small additions which flesh out Javascript's API in places where it's badly needed. I
+expect a lot more of this kind of thing going forward.
