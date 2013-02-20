@@ -23,7 +23,7 @@ supports the following syntax:
     var foo = 'bar';
     ```
 
-Which will produce:
+Which will produce the following javascript:
 
 ```javascript
 var foo = 'bar';
@@ -31,3 +31,57 @@ var foo = 'bar';
 
 My guess is that it supports any langaugae that you can get syntax highlighting
 for in a gist.
+
+## Turn it on
+
+Github parses Markdown with [Redcarpet](https://github.com/vmg/redcarpet). As of
+[Jekyll 0.12.0](https://github.com/mojombo/jekyll) redcarpet can be turned on by
+simply adding the following line to `_config.yml`:
+
+````yaml
+markdown: redcarpet
+````
+
+You'll also need to include the [syntax highlighting CSS file](https://gist.github.com/robsimmons/1172277/raw/3eadd9e60c5cc74fbed0f249bad5eb61defaf463/gh-like.css)
+
+## That's all!
+
+That should do it. You should now be able to use the sweet new syntax for
+getting syntax highlighting in code blocks!
+
+## Examples
+
+### Ruby
+
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+
+### PHP
+
+```php
+<?php
+$os = array("Mac", "NT", "Irix", "Linux");
+if (in_array("Irix", $os))
+    echo "Got Irix";
+
+if (in_array("mac", $os))
+    echo "Got mac";
+?>
+```
+
+### HTML
+
+```html
+<p>hello world</p>
+```
+
+### Handlebars
+
+```handlebars
+<script type='text/x-handlebars' data-template-name='application'>
+  {{outlet}}
+</script>
+```
