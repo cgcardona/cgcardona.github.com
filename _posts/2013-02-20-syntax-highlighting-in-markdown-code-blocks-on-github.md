@@ -64,11 +64,13 @@ puts markdown.to_html
 ```php
 <?php
 $os = array("Mac", "NT", "Irix", "Linux");
-if (in_array("Irix", $os))
-    echo "Got Irix";
+if (in_array("Irix", $os)){
+  echo "Got Irix";
+}
 
-if (in_array("mac", $os))
-    echo "Got mac";
+if (in_array("mac", $os)){
+  echo "Got mac";
+}
 ?>
 ```
 
@@ -76,12 +78,4 @@ if (in_array("mac", $os))
 
 ```html
 <p>hello world</p>
-```
-
-### Handlebars
-
-```handlebars
-<script type='text/x-handlebars' data-template-name='application'>
-  {{outlet}}
-</script>
 ```
