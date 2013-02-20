@@ -19,14 +19,10 @@ the post which would embed the code block.
 However after poking around I came to find out that [Github flavored Markdown](https://help.github.com/articles/github-flavored-markdown)
 supports the following syntax:
 
-    ```javascript
-    var foo = 'bar';
-    ```
-
-Which will produce:
-
-```javascript
-var foo = 'bar';
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
 ```
 
 My guess is that it supports any langaugae that you can get syntax highlighting
