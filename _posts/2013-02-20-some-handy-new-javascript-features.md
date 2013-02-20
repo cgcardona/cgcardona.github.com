@@ -7,6 +7,11 @@ tags: ['javascript', 'code']
 ---
 {% include JB/setup %}
 
+## TLDR
+
+Introducing Javascript's [trim, trimLeft, and trimRight](#trim_trimleft_and_trimright) methods and [default
+parameter values](#default_parameter_values).
+
 ## Intro
 
 Javascript is a language which you either love or hate. But no matter how you
