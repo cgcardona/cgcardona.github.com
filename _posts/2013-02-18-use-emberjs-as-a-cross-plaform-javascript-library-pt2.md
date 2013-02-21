@@ -43,26 +43,30 @@ and will get set with `create()`. The `fullName` is a Computed Property. By
 setting it to the value of this.get('fname') and this.get('lname') `fullName` will
 be dynamic to whatever properties `fname` and `lname` have at a later time.
 
-    var HumanClass = Ember.Object.extend({
-      fname : null,
-      lname : null,
-      fullName : function(){
-        return this.get('fname') + ' ' + this.get('lname');
-      },
-      say : function(){
-        console.log('called via super!');
-      }
-    })
+```javascript
+var HumanClass = Ember.Object.extend({
+  fname : null,
+  lname : null,
+  fullName : function(){
+    return this.get('fname') + ' ' + this.get('lname');
+  },
+  say : function(){
+    console.log('called via super!');
+  }
+})
+```
 
 ### Extend the base class
 
 Next create a `ManClass` which extends the `HumanClass`. Notice `this._super()`.  Sweet.
     
-    var ManClass = HumanClass.extend({
-      say : function(){
-        this._super();
-      }
-    })
+```javascript
+var ManClass = HumanClass.extend({
+  say : function(){
+    this._super();
+  }
+})
+```
 
 ### Create an instance
 
@@ -70,14 +74,18 @@ Now use the `create()` method to create an instance of your class. The values
 that you pass in via an object literal will be assigned to the properties that
 you defined on your class.
 
-    var manInstance = ManClass.create({
-      fname : 'Carlos', 
-      lname : 'Cardona' 
-    });
+```javascript
+var manInstance = ManClass.create({
+  fname : 'Carlos', 
+  lname : 'Cardona' 
+});
+```
 
 To test out `this._super()` call the `say()` method.
 
-    manInstance.say(); // demonstrates this._super();
+```javascript
+manInstance.say(); // demonstrates this._super();
+```
 
 ## Add Key/Value Observers
 
@@ -90,40 +98,46 @@ method](http://emberjs.com/api/classes/Ember.Object.html#method_addObserver).
 The method will just log to the console the name of the property that changed
 and its new value.
 
-    var PropertyObserverClass = Ember.Object.extend({
-      propertyDidChange : function(sender, key, value, rev){
-        console.log(key + ': ' + sender.get(key));
-      }
-    });
+```javascript
+var PropertyObserverClass = Ember.Object.extend({
+  propertyDidChange : function(sender, key, value, rev){
+    console.log(key + ': ' + sender.get(key));
+  }
+});
 
-    var propertyObserverInstance = PropertyObserverClass.create();
+var propertyObserverInstance = PropertyObserverClass.create();
 
-    Object.keys(manInstance).forEach(function(el, ind){
-      // add an observer for both of the manInstance's properties
-      manInstance.addObserver(el, propertyObserverInstance, propertyObserverInstance.propertyDidChange);
-    });
+Object.keys(manInstance).forEach(function(el, ind){
+  // add an observer for both of the manInstance's properties
+  manInstance.addObserver(el, propertyObserverInstance, propertyObserverInstance.propertyDidChange);
+});
+```
 
 ## Run it
 
 Now that we've got an object with a couple of properties with another object
 observing those properties let's see what happens when the values change.
 
-    manInstance.set('fname', 'Soljah');
-    manInstance.set('lname', 'Cardona-Edwards');
-    console.log(manInstance.fullName());
+```javascript
+manInstance.set('fname', 'Soljah');
+manInstance.set('lname', 'Cardona-Edwards');
+console.log(manInstance.fullName());
 
-    manInstance.set('fname', 'Second');
-    manInstance.set('lname', 'Name');
-    console.log(manInstance.fullName());
+manInstance.set('fname', 'Second');
+manInstance.set('lname', 'Name');
+console.log(manInstance.fullName());
+```
 
 And in the console we see:
 
-    fname: Soljah 
-    lname: Cardona-Edwards 
-    Soljah Cardona-Edwards 
-    fname: Second 
-    lname: Name 
-    Second Name 
+```javascript
+fname: Soljah 
+lname: Cardona-Edwards 
+Soljah Cardona-Edwards 
+fname: Second 
+lname: Name 
+Second Name 
+```
 
 Twice you can see `fname` and `lname` get called from within the
 `propertyDidChange` method that gets called via Ember's Key/Value Observation.
