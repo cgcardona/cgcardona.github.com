@@ -13,7 +13,7 @@ most powerful way to structure and express my thoughts.
 
 Recently I began to notice that docs I have been reading which are written in
 markdown had syntax highlighting in their code blocks. At first I thought
-perhaps they were just creating [gists](gist.github.com) and placing the url in
+perhaps they were just creating [gists](http://gist.github.com) and placing the url in
 the post which would embed the code block. 
 
 However after poking around I came to find out that [Github flavored Markdown](https://help.github.com/articles/github-flavored-markdown)
