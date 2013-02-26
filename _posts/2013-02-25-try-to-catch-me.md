@@ -23,7 +23,7 @@ catch(error){
 }
 ```
 
-Note that the catch block passes in an error argument which you can then access
+Note that the catch block passes in an `error` argument which you can then access
 the error/exception's properties to learn more about what exactly when down.
 
 ## You're exceptional
@@ -111,5 +111,5 @@ catch(e){
 
 ## More info
 
-[try/catch docs on Mozilla](https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Statements/try...catch)
-[throw docs on Mozilla](https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Statements/throw)
+* [try/catch docs on Mozilla](https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Statements/try...catch)
+* [throw docs on Mozilla](https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Statements/throw)
