@@ -20,7 +20,7 @@ backs up my suspicion. So I wouldn't recommend actually doing this in practice.
 This is more just meant to shine some light on a strange feature of Javascript
 `String` instances.
 
-what do HTML Wrapper methods look like? Let's have a look.
+What do HTML Wrapper methods look like? Let's have a look.
 
 ## On to the code
 
