@@ -55,7 +55,7 @@ There are four major elements of The Object Model
 
 > **Hierarchy** is a ranking and ordering of abstractions.
 
-## Three minorelements
+## Three minor elements
 
 There are three minor elements of The Object Model
 
