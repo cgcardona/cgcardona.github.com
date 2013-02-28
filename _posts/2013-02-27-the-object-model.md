@@ -43,7 +43,7 @@ There are four major elements of The Object Model
 
 ### Encapsulation
 
-> Encapsulation is the process of hiding all of the details of an aobject that do
+> **Encapsulation** is the process of hiding all of the details of an aobject that do
 > not contribute to its essential characteristics.
 
 ### Modularity
