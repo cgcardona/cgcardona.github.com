@@ -9,7 +9,7 @@ tags: ['thoughts']
 
 ## Intro
 
-We all have heroes&emdash;people we look up. People who we draw inspiration
+We all have heroes. People we look up. People who we draw inspiration
 from. 
 
 They might be people whose work we admire. Or perhaps an artist or musician who
