@@ -23,7 +23,7 @@ The upgrade was straight forward and painless and I am now running PHP version 5
 
 ## You said something about oddness?
 
-Oh yes I did didn't I? Well I noticed that if you create a class which with a
+Oh yes I did didn't I? Well I noticed that if you create a class with a
 method name that is the same as the class and no constructor function then the
 method with the same name as the class will get called when the object is
 constructed. 
