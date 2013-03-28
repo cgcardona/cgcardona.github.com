@@ -67,7 +67,7 @@ Finally you can override this behavior by supplying a constructor method.
 
 ```php
 <?php
-// example without constructor
+// example with constructor
 class Base{
   public function __construct(){
     echo 'constructor called';
