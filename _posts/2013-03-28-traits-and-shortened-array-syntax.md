@@ -9,7 +9,7 @@ tags: ['php', 'code']
 
 ## Intro
 
-Just a quick post to introduce two new features from [PHP Version 5.4.0](./_posts/2013-03-28-traits-and-shortened-array-syntax.md). Namely
+Just a quick post to introduce two new features from [PHP Version 5.4.0](http://php.net/releases/5_4_0.php). Namely
 traits and shortened array syntax.
 
 ## Traits
