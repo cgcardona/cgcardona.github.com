@@ -46,7 +46,7 @@ class Car{
 
 $human = new Human();
 $human->run();
-// echos 'Running!!!'
+// echos 'Generic running!!!'
 
 $car = new Car();
 $car->run();
