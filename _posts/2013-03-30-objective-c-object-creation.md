@@ -17,13 +17,13 @@ some quick notes about creating objects.
 The first way is to call two `NSObject` methods
 
 1. `(id)alloc`
-2. `(id) init`
+2. `(id)init`
 
 This best way is to nest them so that you can be sure you're calling the `init`
 method on the newly allocated object.
 
 ```objectivec
-CustomObject customObject = [[CustomObject alloc] init];
+CustomObject *customObject = [[CustomObject alloc] init];
 ```
 Some Objects accept a variation on the `init` method:
 
@@ -33,14 +33,14 @@ Some Objects accept a variation on the `init` method:
 - (id)initWithInt:(int)value;
 - (id)initWithLong:(long)value;
 
-CustomObject customObject = [[CustomObject alloc] initWithBool:YES];
+CustomObject *customObject = [[CustomObject alloc] initWithBool:YES];
 ```
 
 However that seems really nasty to me. Thankfully there is a shortcut `(id)new`
-method on `NSObject` which is better suited to my javascript tastes.
+method on `NSObject` which is better suited to my tastes.
 
 ```objectivec
-CustomObject customObject = [CustomObject new];
+CustomObject *customObject = [CustomObject new];
 ```
 
 ## The way that I prefer
