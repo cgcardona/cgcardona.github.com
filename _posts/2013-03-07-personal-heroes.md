@@ -149,11 +149,11 @@ Hansson](http://en.wikipedia.org/wiki/David_Heinemeier_Hansson) creator of [Ruby
 
 ## Music
 
-### Andre Segovia
+### Andres Segovia
 
-[Andre Segovia](http://en.wikipedia.org/wiki/Andr%C3%A9s_Segovia) classical guitarist
+[Andres Segovia](http://en.wikipedia.org/wiki/Andr%C3%A9s_Segovia) classical guitarist
 
-![Andre Segovia](http://upload.wikimedia.org/wikipedia/commons/9/9b/Andr%C3%A9s_Segovia_%281963%29_by_Erling_Mandelmann.jpg)
+![Andres Segovia](http://upload.wikimedia.org/wikipedia/commons/9/9b/Andr%C3%A9s_Segovia_%281963%29_by_Erling_Mandelmann.jpg)
 
 ### Trey Anastasio
 
