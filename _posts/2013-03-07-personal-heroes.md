@@ -57,6 +57,12 @@ And of course it's in no order of importance.
 
 ![Alan Kay](http://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Alan_Kay2.jpg/220px-Alan_Kay2.jpg)
 
+### Grady Booch
+
+[Grady Booch](http://en.wikipedia.org/wiki/Grady_Booch) software architecture and software engineering
+
+![Grady Booch](http://upload.wikimedia.org/wikipedia/commons/6/6b/GradyBooch.gif)
+
 ### John von Neumann
 
 [John von Neumann](http://en.wikipedia.org/wiki/John_von_Neumann)
