@@ -165,3 +165,4 @@ Those properties are:
 @property NSArray *frequencies;
 @property NSNumber *duration;
 ```
+
