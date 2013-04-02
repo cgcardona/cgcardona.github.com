@@ -291,6 +291,12 @@ Hansson](http://en.wikipedia.org/wiki/David_Heinemeier_Hansson) creator of [Ruby
 
 ## Misc
 
+### Gordon Ramsay
+
+[Gordon Ramsay](http://en.wikipedia.org/wiki/Gordon_Ramsay) chef and TV personality known for no nonsense ways.
+
+![Gordon Ramsay](http://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Gordon_Ramsay.jpg/440px-Gordon_Ramsay.jpg)
+
 ## Credit
 
 As you can tell I'm mostly sourcing everything from [Wikipedia](wikipedia.org).
