@@ -27,7 +27,7 @@ highest levels of abstraction.
 It's often said that in a properly encapsulated object no outside entity could
 directly access and/or change any of the object's instance variables.
 
-### Objective-C & Cocoa
+## Objective-C & Cocoa
 
 In Objective-C and Cocoa for example when you are defining the class's interface you can
 have the compiler synthesize getter and setter methods like so
@@ -55,7 +55,7 @@ NSLog(@"%@", [myProfile name]);
 
 There are ways to be more restrictive and only synthesize a getter.
 
-### Ruby
+## Ruby
 
 Ruby is similar in the sense that you'll get an error if you try to get or set
 an instance variable without declaring a getter and/or setter.
