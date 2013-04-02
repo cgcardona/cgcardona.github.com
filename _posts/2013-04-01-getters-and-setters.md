@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Getters and Setters?"
+title: "Getters and Setters"
 description: ""
 category: 
 tags: ['code', 'php', 'ruby', 'javascript', 'objectivec', 'cocoa']
