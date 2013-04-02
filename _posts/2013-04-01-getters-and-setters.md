@@ -10,11 +10,11 @@ tags: ['code', 'php', 'ruby', 'javascript', 'objectivec', 'cocoa']
 Abstraction and encapsulation are two sides of the same coin. Abstraction
 focuses on the outside fundamental characteristics which define and distinguish
 and object while encpasulation focuses on hiding the implementation of an
-object's functionality; thereby freeing the Object's methods client or consumer 
+Object's functionality; thereby freeing the Object's method's client or consumer 
 of the need to understand the underlying complexity.
 
 As far as a client is concerned an object is just a black box. It has methods
-which can retrieve and update internal data but the internal implementation of all functionality should be completely
+which can retrieve and update state values but the internal implementation of all functionality should be completely
 hidden.
 
 And this is the way we want it. Information hiding is one of the reasons that
