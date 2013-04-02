@@ -161,6 +161,10 @@ Hansson](http://en.wikipedia.org/wiki/David_Heinemeier_Hansson) creator of [Ruby
 
 ![Andres Segovia](http://upload.wikimedia.org/wikipedia/commons/9/9b/Andr%C3%A9s_Segovia_%281963%29_by_Erling_Mandelmann.jpg)
 
+### Christopher Parkening
+
+[Christopher Parkening](http://en.wikipedia.org/wiki/Christopher_Parkening) classical guitarist and protoge of Segovia.
+
 ### Trey Anastasio
 
 [Trey Anastasio](http://en.wikipedia.org/wiki/Trey_Anastasio) guitarist for Phish
@@ -278,6 +282,12 @@ Hansson](http://en.wikipedia.org/wiki/David_Heinemeier_Hansson) creator of [Ruby
 [Stephen King](http://en.wikipedia.org/wiki/Stephen_King)
 
 ![Stephen King](http://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Stephen_King%2C_Comicon.jpg/220px-Stephen_King%2C_Comicon.jpg)
+
+### Christopher Hitchens 
+
+[Christopher Hitchens](http://en.wikipedia.org/wiki/Christopher_Hitchens) Hitch Slapped!
+
+![Christopher Hitchens](http://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Christopher_Hitchens_crop.jpg/440px-Christopher_Hitchens_crop.jpg)
 
 ## Misc
 
