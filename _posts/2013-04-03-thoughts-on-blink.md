@@ -46,7 +46,7 @@ we couldn't use them without some god awful polyfill hack.
 Webkit on the other hand seems to be a form of highest common denominator. All
 the browsers that are part of the ecosystem get a standard and common set of
 functionality out of the box. They then build their own custom stuff on top of
-it which is hidden behind a vendor prefix like `-webkit`.
+it which is hidden behind a vendor prefix like `-webkit-`.
 
 ## No more prefixes :-[
 
