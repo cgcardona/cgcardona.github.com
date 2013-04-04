@@ -63,7 +63,7 @@ sites with vendor prefixes for years. We've been using drop shadows and rounded
 corners with vendor prefixes long before they were 'officially' supported. 
 
 We were well aware that our rounded corners would gracefully degrade to
-non-rounded corners for users running older browsers but it was something what
+non-rounded corners for users running older browsers but it was something that
 we were willing to live with to get the benefit of pushing the vendor prefixed
 code out to the millions of users running modern browsers.
 
