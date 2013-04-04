@@ -89,21 +89,21 @@ remove 4.5 million lines perhaps a similar amount can be removed on the Webkit
 side which would have huge benefit for size is no virtue in software.
 
 But no matter what's to be gained from removing Google specific code from the
-codebase it won't come close to balancing what will be lost be having no more
-Google contributions to the codebase. There no other way to spin this&mdash;this
-is a bad thing for the Webkit community and codebase.
+codebase it won't come close to balancing what'll be lost by having no more
+Google contributions to the codebase. There's no other way to spin
+this&mdash;it's a bad thing for the Webkit community and codebase.
 
 Of course Apple is heavily invested in Webkit and will presumably keep
 supporting it and improving it.
 
-It's amazing that the Google team were able to keep their mouth shut at the time
+It's amazing that the Google team were able to keep their mouths shut at the time
 when everyone was talking so much crap about the Webkit monoculture. Here they
 were about to fork the entire project and they had to keep hush hush.
 
 ## My thoughts
 
 My personal opinion is that this is a good thing. I often think of codebases as
-living breathing organisms and you can clearly draw lineages in open source
+living breathing organisms which grow and evolve over time. You can clearly draw lineages in 
 codebases which live many years and go through multiple refactorings.
 
 In this case this is like some type of evolutionary split. From here on out
