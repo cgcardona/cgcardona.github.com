@@ -55,7 +55,7 @@ prefixes](http://www.chromium.org/blink#vendor-prefixes) section on the Blink
 page.
 
 They mention that they'll no longer support experimental features with vendor
-prefixes. Instead they'll have the unprefixes feature hidden behind a flag which
+prefixes. Instead they'll have the unprefixed feature hidden behind a flag which
 can be turned on in `about:flags`.
 
 I think this totally sucks. Let's be completely honest. We've all been building
