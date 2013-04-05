@@ -27,6 +27,12 @@ And of course it's in no order of importance.
 
 ## Software
 
+### J. C. R. Licklider
+
+[J. C. R. Licklider](http://en.wikipedia.org/wiki/J.C.R._Licklider) Computing's Johnny Appleseed.
+
+![J. C. R.  Licklider](http://upload.wikimedia.org/wikipedia/commons/6/66/J._C._R._Licklider.jpg)
+
 ### Alan Turing
 
 [Alan Turing](http://en.wikipedia.org/wiki/Alan_Turing) WWII era mathematician, logician, cryptanalyst, and computer scientist.
