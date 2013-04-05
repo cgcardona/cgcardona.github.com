@@ -33,6 +33,12 @@ And of course it's in no order of importance.
 
 ![J. C. R.  Licklider](http://upload.wikimedia.org/wikipedia/commons/6/66/J._C._R._Licklider.jpg)
 
+### Vint Cerf
+
+[Vint Cerf](http://en.wikipedia.org/wiki/Vint_Cerf) one of the Fathers of the Internet.
+
+![Vint Cerf](http://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Vint_Cerf_-_2010.jpg/400px-Vint_Cerf_-_2010.jpg)
+
 ### Alan Turing
 
 [Alan Turing](http://en.wikipedia.org/wiki/Alan_Turing) WWII era mathematician, logician, cryptanalyst, and computer scientist.
