@@ -207,6 +207,12 @@ Hansson](http://en.wikipedia.org/wiki/David_Heinemeier_Hansson) creator of [Ruby
 
 ![Jerry Garcia](http://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Grateful_Dead_-_Jerry_Garcia.jpg/250px-Grateful_Dead_-_Jerry_Garcia.jpg)
 
+### Jimi Hendrix
+
+[Jimi Hendrix](http://en.wikipedia.org/wiki/Jimi_Hendrix) American guitar virtuoso
+
+![Jimi Hendrix](http://upload.wikimedia.org/wikipedia/commons/a/ae/Jimi_Hendrix_1967.png)
+
 ### Bob Marley 
 
 [Bob Marley](http://en.wikipedia.org/wiki/Bob_Marley) 
