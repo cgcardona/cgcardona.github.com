@@ -25,8 +25,8 @@ First there's the traditional method with arguments.
 
 ```ruby
 def create_profile(first_name, last_name)
-  puts "first name: " + first_name
-  puts "last name: " + last_name
+  puts "first name: #{first_name}" 
+  puts "last name: #{last_name}" 
 end
 
 create_profile 'Carlos', 'Cardona'
@@ -48,8 +48,8 @@ You can defend against that with default parameter values
 
 ```ruby
 def create_profile(first_name = "n/a", last_name = "n/a")
-  puts "first name: " + first_name
-  puts "last name: " + last_name
+  puts "first name: #{first_name}"
+  puts "last name: #{last_name}"
 end
 
 create_profile 'Cardona'
@@ -69,8 +69,8 @@ correctly.
 
 ```ruby
 def create_profile(first_name: "n/a", last_name: "n/a")
-  puts "first name: " + first_name
-  puts "last name: " + last_name
+  puts "first name: #{first_name}"
+  puts "last name: #{last_name}"
 end
 
 create_profile last_name: 'Cardona'
