@@ -117,6 +117,12 @@ And of course it's in no order of importance.
 
 ![Steve Jobs](http://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Steve_Jobs_with_the_Apple_iPad_no_logo_%28cropped%29.jpg/150px-Steve_Jobs_with_the_Apple_iPad_no_logo_%28cropped%29.jpg)
 
+### Bruce Schneier
+
+[Bruce Schneier](http://en.wikipedia.org/wiki/Bruce_Schneier) security specialist.
+
+![Bruce Schneier](http://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bruce_Schneier_1.jpg/440px-Bruce_Schneier_1.jpg)
+
 ### Joel Spolsky
 
 [Joel Spolsky](http://en.wikipedia.org/wiki/Joel_Spolsky) blogger at [Joel on Software](http://www.joelonsoftware.com/) and creator of many products.
