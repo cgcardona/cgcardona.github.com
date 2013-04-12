@@ -77,3 +77,12 @@ create_profile last_name: 'Cardona'
 # first name: n/a
 # last name: Cardona
 ```
+
+At the same time it allows us to pass in arguments in a different order than
+they were defined which makes the function call more fluid.
+
+```ruby
+create_profile last_name: 'Cardona', first_name: 'Carlos'
+# first name: Carlos
+# last name: Cardona
+```
