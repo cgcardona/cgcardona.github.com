@@ -37,7 +37,7 @@ def globally_scoped_method
   puts "This is a globally scoped method."
 end
 
-class MyClass < Object
+class MyClass
   def initialize
     globally_scoped_method
   end
@@ -56,7 +56,7 @@ def globally_scoped_method
   puts "This is a globally scoped method."
 end
 
-class MyClass < Object
+class MyClass
   def initialize
   end
 end
