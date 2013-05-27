@@ -8,6 +8,6 @@ group: navigation
 
 Part robot—part alien. Hatched from a crystal egg. Born musician. 
 
-Creator of [audiofile.cc](http://audiofile.cc). Mobile web software engineer.
+Mobile web software engineer.
 
-San Francisco, CA · [https://audiofile.cc/boombox](https://audiofile.cc/boombox)
+San Francisco, CA 
