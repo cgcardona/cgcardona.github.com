@@ -12,6 +12,16 @@ brilliant idea.
 
 ## There are already prototypes
 
+If you flew to San Francisco, Los Angeles, or New York to have a Glass fitting
+then you already saw one of these. There is a team of young hip people in all
+white rooms handing out iPad like packaging.
+
+They offer you mimosas or coffee/tea. And then they walk you through every
+aspect of the device and UI. The experience is very much like an Apple store but
+even more select.
+
+## Glass is a new UI
+
 The Glass UI is really simple. It consists of moving cards to the left and right
 in your vision by swiping back/forth and down as well as tapping on the side of
 the device. You can consume the breadth and depth of it in just a few minutes.
