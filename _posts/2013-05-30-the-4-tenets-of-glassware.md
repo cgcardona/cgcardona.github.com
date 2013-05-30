@@ -41,8 +41,8 @@ location every 10 minutes and most times when you opt in to a piece of Glassware
 you're acknowledging that the app can also access your location and that's ok
 because it's expected.
 
-Glass is such a networked and geo-aware device device that any social qualms
-about bein 'tracked' won't hold water on this platform. By using Glass you opt
+Glass is such a networked and geo-aware device that any social qualms
+about being 'tracked' won't hold water on this platform. By using Glass you opt
 into a world where your device is broadcasting your location at all times.
 
 ## Voice
@@ -62,7 +62,7 @@ amazing.
 
 If there is one part of Glass that I've found to be a social agitator it's the
 forward facing eye level camera. Let's be honest--people are uncomfortable
-having a camera pointed in their face. The vast majority or people haven't
+having a camera pointed in their face. The vast majority of people haven't
 experienced the Glass UI and so they are justified wondering if you're recording
 them when you're looking in their direction. 
 
@@ -85,8 +85,8 @@ pretty or perfect. It's about being eyes on the ground.
 ## Ron Conway's 7 tech Megatrends
 
 A couple of years ago Techcrunch leaked a document from legendary Silicon Valley
-investor Ron Conway which mentioned 7 tech megatrends
-http://techcrunch.com/2010/09/13/ron-conways-confidential-investment-guide-the-tech-megatrends/.
+investor Ron Conway which mentioned [7 tech
+megatrends](http://techcrunch.com/2010/09/13/ron-conways-confidential-investment-guide-the-tech-megatrends/).
 Basically Ron and his team had been tracking entrepreneurs, investments, wins,
 and losses for many years and they had identified 7 trends that were off the
 charts on many levels. Those trends were:
