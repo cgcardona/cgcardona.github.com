@@ -11,7 +11,7 @@ tags: ['vim', 'emacs']
 
 Any hacker who is worth their weight in bytes knows that there are ultimately two text editors that really matter. Two text editors which have been at the center of an [ages old flame war](http://en.wikipedia.org/wiki/Editor_war). And most importantly two text editors that you can be 100% confident that you'll find on any remote server you might find yourself `ssh`ed into on some late and dark night.
 
-Those two venerable text editors were the Mighty [Vi](http://en.wikipedia.org/wiki/Vi) and the equally Mighty [Emacs](https://en.wikipedia.org/wiki/Emacs).
+Those two venerable text editors are the Mighty [Vi](http://en.wikipedia.org/wiki/Vi) and the equally Mighty [Emacs](https://en.wikipedia.org/wiki/Emacs).
 
 ## Moment of clarification
 
@@ -55,11 +55,11 @@ And there are a bunch of other examples like this. I'm sure there are hella macr
 
 So I was just never willing to really spend more than a brief time with emacs before I just fell back on vim because of the performace hit I was taking from trying to switch.
 
-However this last weekend I was reading about one of my favorite hacker heroes--the legendary [jwz](http://www.jwz.org/). Specifically I was reading about how before he was at [Netscape](http://en.wikipedia.org/wiki/Netscape) and [Mozilla](http://en.wikipedia.org/wiki/Mozilla) he was a [LISP](http://goo.gl/c0R5a) programmer at Lucid. And while he was there he was the lead developer on XEmacs which was a kick ass Emcas client for unix at the time. 
+However this last weekend I was reading about one of my favorite hacker heroes--the legendary [jwz](http://www.jwz.org/). Specifically I was reading about how before he was at [Netscape](http://en.wikipedia.org/wiki/Netscape) and [Mozilla](http://en.wikipedia.org/wiki/Mozilla) he was a [LISP](http://goo.gl/c0R5a) programmer at Lucid. 
 
-In fact it was so kick ass that it was at the center of [The Great Emacs Schism](http://www.jwz.org/doc/lemacs.html).
+While he was there he was the lead developer on [XEmacs](http://en.wikipedia.org/wiki/XEmacs) which was a kick ass Emcas client for unix at the time. In fact it was so kick ass that it was at the center of [The Great Emacs Schism](http://www.jwz.org/doc/lemacs.html).
 
-After reading all about it I decided that I just had to give `emacs` another try. I mean, what did I have to lose? The very least I could always come crawling back to trusty old `vim` with no questions asked. But in a best case scenario I could see myself finally taking the time to find the macros needed to tame some of the keyboard nastiness and then I would finally begin to have emacs in my toolset.
+After reading all about it I decided that I just had to give `emacs` another try. I mean, what did I have to lose? At the very least I could always come crawling back to trusty old `vim` with no questions asked. But in a best case scenario I could see myself finally taking the time to find the macros needed to tame some of the keyboard nastiness and then I would finally begin to have emacs in my toolset.
 
 However one single event happened which made me decisively choose to use emacs as my primary text editor going forward. And that was when I realised that emacs is really just a thin wrapper around a LISP runtime. In fact the User's `~/.emacs` file is written in LISP as is all the other configuration and extension.
 
@@ -73,7 +73,7 @@ Third, the Scheme dialect of LISP's lambdas were highly influental on Javascript
 
 > JavaScript is the first lambda language to go mainstream. Deep down, JavaScript has more in common with Lisp and Scheme than with Java. It is Lisp in C's clothing. This makes JavaScript is remarkably powerful language.
 
-Remember each time your passing around an anonymous function is Javascript that it traces it's roots back to Scheme and LISP.
+So remember that each time your passing around an anonymous function around is Javascript it traces it's roots back to Scheme and LISP.
 
 ## May the force of the Vim be forever with thee?
  
@@ -85,13 +85,13 @@ However this realization that Emacs could be seen as a text editor wrapper aroun
 
 ## Evil
 
-So I made the transition but after a couple of days it was clear to me that I was taking a major productivity hit. It seemed like my fingers were lost and I was taking 5-10 times longer to do each task. It was slowing my work down to a crawl. Most of the days were spent struggling with the tool as opposed to being accelerated by it.
+So I bit the bullet, began learning a host of new keyboard combinations/commands and started to make the transition. But after a couple of days it was clear to me that I was taking a major productivity hit. It seemed like my fingers were lost and I was taking 5-10 times longer to do each task. It was slowing my work down to a crawl. Most of the days were spent struggling with the tool as opposed to being accelerated by it.
 
 In frustation a few days ago on twitter [I said](https://twitter.com/cgcardona/status/351739836564111360):
 
 > Predictably the biggest issue w/ switching from #Vim to #Emacs has been loss of productivity. I'm really fast w/ Vim & my fingers feel lost
 
-[@redblobgames(https://twitter.com/redblobgames/) [answered](https://twitter.com/redblobgames/status/351924335985963008):
+[@redblobgames](https://twitter.com/redblobgames/) [answered](https://twitter.com/redblobgames/status/351924335985963008):
 
 > evil-mode?
 
