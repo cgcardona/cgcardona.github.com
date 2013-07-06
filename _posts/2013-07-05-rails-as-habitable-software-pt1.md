@@ -9,7 +9,7 @@ tags: ['rails', 'Richard Gabriel']
 
 ## Software good enough to live with
 
-In [Patterns of Software](http://www.dreamsongs.com/Files/PatternsOfSoftware.pdf) LISP expert [Richard Gabriel](http://en.wikipedia.org/wiki/Richard_P._Gabriel) speaks about the habitability of codebases. In comparing a sprawling codebase which has been predesigned by architects with a codebase which has grown organically piecemeal over many years he makes the comparison of a large industrial building and a small farmhouse.
+In [Patterns of Software](http://www.dreamsongs.com/Files/PatternsOfSoftware.pdf) LISP expert [Richard Gabriel](http://en.wikipedia.org/wiki/Richard_P._Gabriel) speaks about the habitability of codebases. In comparing a sprawling codebase which has been predesigned by architects with a codebase which has grown organically piecemeal over many years he makes the comparison of a large industrial complex and a small farmhouse.
 
 He says that the large industrial complex has been designed beforehand by a team of engineers. They thought long and hard about the specifications and the needed materials. They knew the timetable down to the second and they could quote you the projected price down to the penny. However many times these planning commissions forget to factor the most important element--the human equation. 
 
@@ -35,15 +35,17 @@ I think that the actual source code of Ruby on Rails is highly habitable. I also
 
 ## Convention over configuration
 
-Perhaps my favorite feature of rails is also the feature which I think makes it most habitable--and that is [convention over configuration](http://en.wikipedia.org/wiki/Convention_over_configuration). There are tasks that we're all gonna do if we're setting up a web CRUD app. We all need routes. We all need some type of [datastore](http://en.wikipedia.org/wiki/SQLite). We're gonna need templates. Oh yea and we're gonna need a [webserver](http://en.wikipedia.org/wiki/WEBrick). And while we're at it we should seperate our concerns into an [MVC pattern](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller). Oh and also we should have a sane naming convention so that the Models, Views, and Controllers are naturally tied together. And finally let's put it all into a standard directory structure.
+Perhaps my favorite feature of rails is also the feature which I think makes it most habitable--and that is [convention over configuration](http://en.wikipedia.org/wiki/Convention_over_configuration). 
 
-Add all that together and you have the perfect recipe for a new developer to come onto a project and instantly know their way around the code base. If you want to check out the views code you **always** know where that is in a rails directory. Things like that speed up developer productivity **big time**.
+There are tasks that we're all gonna do if we're setting up a web CRUD app. We all need routes. We all need some type of [datastore](http://en.wikipedia.org/wiki/SQLite). We're gonna need templates. Oh yea and we're gonna need a [webserver](http://en.wikipedia.org/wiki/WEBrick). And while we're at it we should separate our concerns into an [MVC pattern](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller). Oh and also we should have a sane naming convention so that the Models, Views, and Controllers are naturally tied together. And finally let's put it all into a standard directory structure.
+
+Add all that together and you have the perfect recipe for a new developer to come onto a project and instantly know their way around the code base. If you want to check out the views code you **always** know where that is in a rails project. Things like that speed up developer productivity **big time**.
 
 ## Best Practices
 
 I have several things that I can reply with when someone asks me why I primarily use rails for development and one of those replys is 'Rails takes the industry best practices and folds them into the framework.'
 
-Seperation of concerns through Model, Views, and Controllers? Yeah we got that. Full test suites? [Of course](http://guides.rubyonrails.org/testing.html). REST is gonna be a big deal? Don't worry--[we're covered](http://guides.rubyonrails.org/routing.html). Loading the head section and assets each page refresh slowing down the mobile clients? How about [turbolinks](https://github.com/rails/turbolinks/)! And on and on and on...
+Separation of concerns through Model, Views, and Controllers? Yeah we got that. Full test suites? [Of course](http://guides.rubyonrails.org/testing.html). REST is gonna be a big deal? Don't worry--[we're covered](http://guides.rubyonrails.org/routing.html). Loading the head section and assets each page refresh slowing down the mobile clients? How about [turbolinks](https://github.com/rails/turbolinks/)! And on and on and on...
 
 By taking industry best practices and rolling them into the framework rails makes it easy to do the right thing. It start beginners out on solid footing and ensures that the farmhouse has a solid foundation and is built with the highest quality building materials.
 
