@@ -43,7 +43,7 @@ Add all that together and you have the perfect recipe for a new developer to com
 
 ## Best Practices
 
-I have several things that I can reply with when someone asks me why I primarily use rails for development and one of those replys is 'Rails takes the industry best practices and folds them into the framework.'
+I have several things that I can reply with when someone asks me why I primarily use rails for development and one of those replies is 'Rails takes the industry best practices and folds them into the framework.'
 
 Separation of concerns through Model, Views, and Controllers? Yeah we got that. Full test suites? [Of course](http://guides.rubyonrails.org/testing.html). REST is gonna be a big deal? Don't worry--[we're covered](http://guides.rubyonrails.org/routing.html). Loading the head section and assets each page refresh slowing down the mobile clients? How about [turbolinks](https://github.com/rails/turbolinks/)! And on and on and on...
 
