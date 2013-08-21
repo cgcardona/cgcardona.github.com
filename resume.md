@@ -32,7 +32,8 @@ description: ""
 * **Version control:** git
 * **Templating:** haml
 * **CSS Preprocessor:** SCSS
-* **Text editor:** Vim
+* **Tests** Rspec
+* **Text editor:** Vim/Emacs (Yes, both)
 * **Computer:** MacIntosh
 * **Terminal:** iTerm
 * **Shell:** oh-my-zsh
@@ -52,8 +53,18 @@ description: ""
     * [Cents Us dollars Them](http://cents-us-dollars-them.herokuapp.com/)
     * [DunnBot](https://github.com/cgcardona/dunn)
 
+## Ruby on Rails Engineer
+### [Cardfree](http://cardfree.com/) April 2013-Present
+* Internal Tools
+    * Ruby on Rails
+    * Haml
+    * Sass
+    * Twitter Bootstrap
+    * Rspec
+    * Coffeescript
+
 ## Mobile Web Developer
-### Trulia July 2011–Jan 2013
+### [Trulia](http://trulia.com/) July 2011–Jan 2013
 
 * **Developer on m.trulia.com:** Developed a modern mobile web app with HTML5/CSS3/Javascript(jQuery Mobile) built on top of the LAMP (Linux, Apache, MySQL, PHP) stack.
     * jQuery Mobile
