@@ -54,8 +54,8 @@ description: ""
     * [DunnBot](https://github.com/cgcardona/dunn)
 
 ## Ruby on Rails Engineer
-### See For Me 
-* Google Glassware
+### [Cardfree](http://cardfree.com/) April 2013-Present
+* Internal Tools 
     * Ruby on Rails
     * Haml
     * Sass
