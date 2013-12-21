@@ -10,10 +10,9 @@ description: ""
 * HTML5 Specification [Acknowledged Contributor](http://www.w3.org/TR/2010/WD-html5-20100624/acknowledgements.html#acknowledgements)
 * Trulia’s [Initial Public Offering](http://www.sec.gov/Archives/edgar/data/1349454/000119312512383756/d352334ds1a.htm). The company raised $100,000,000.
 * Previous member in good standing of the [W3C HTML5 Working Group](http://www.w3.org/2000/09/dbwg/details?group=40318&public=1)
-* Mobile web developer on project which generated multiple millions of dollars in sales within a couple of weeks.
-* Developer on mobile website serving hundreds of thousands of hits per day.
-* Co-architect on a redesign of [m.trulia.com](http://m.trulia.com). We rebuilt the client using jQuery Mobile.
-* Launched Windows 8 app the day of the OS release.
+* Mobile web developer on [Trulia Local Ads](http://www.trulia.com/localads) which generated multiple millions of dollars in sales within a couple of weeks.
+* Co-architect on a redesign of [m.trulia.com](http://m.trulia.com). We rebuilt the client using jQuery Mobile and served in the high hundreds of thousands of hits per day.
+* Launched native Windows 8 app built with the web stack (html/css/js) the day of the OS release.
 * Developed and maintained a suite of webservices which fed data to over 10 native iOS and Android apps.
 * Implemented Push Notifications for iOS and Android that is pushing tens of thousands of notifications each day.
 * 4 separate presentations on HTML5 to the Santa Cruz Web Developers Group and NextSpace in Santa Cruz, CA.
@@ -43,13 +42,11 @@ description: ""
 ### [Cardona Designs](http://cardonadesigns.com) Jan 2008–Present
 
 * **Independent web developer:** Project manager, Front/Back end web developer, and creator of several projects
-    * [AudioFile](https://audiofile.cc/)
-    * [Boombox.js](https://audiofile.cc/boombox/)
-    * [Boombox for Chrome](https://audiofile.cc/chrome/)
+    * AudioFile
+    * Boombox.js
+    * Boombox for Chrome
     * [AudiofileSDK](https://github.com/cgcardona/audiofile_sdk)
     * [Audiofile Genetics Lab](http://audiofile-genetics-lab.herokuapp.com/)
-    * [Make Sandwich](http://protected-wildwood-4960.herokuapp.com/)
-    * [Make Sandwich github repo](https://github.com/cgcardona/make_sandwich_app/)
     * [Cents Us dollars Them](http://cents-us-dollars-them.herokuapp.com/)
     * [DunnBot](https://github.com/cgcardona/dunn)
 
