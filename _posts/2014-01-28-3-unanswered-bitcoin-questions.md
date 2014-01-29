@@ -47,10 +47,9 @@ My question is how do Bitcoin Days destroyed work with regards to off-blockchain
 If Coinbase (and other off-blockchain transaction vendors) doesn't accurately reflect the number of bitcoin days destroyed in off-blockchain transactions then as a community are we getting an accurate view of how quickly the Bitcoin economy and transactions are growing?
 
 * * *
-## 2. Harder or easier to launch an alt-coins in the future
+## 2. Harder or easier to launch alt-coins in the future
 
-Each day we hear about a new [alt coin](http://www.urbandictionary.com/define.php?term=altcoin) being created. This is the combination of
-a couple of factors. The first is that it's getting easier and easier to create an alt-coin. Many have now paved the way and there are even pay services which let you just pay some cash, plug in some values, and it creates the alt coin for you.
+Each day we hear about a new [alt coin](http://www.urbandictionary.com/define.php?term=altcoin) being created. This is the combination of a couple of factors. The first is that it's getting easier and easier to create an alt-coin. Many have now paved the way and there are even [pay services](http://coingen.io/) which let you just pay some cash, plug in some values, and it creates the alt coin for you.
  
 Now with the emergence of the so called 'bitcoin 2.0' and projects like [mastercoin](http://www.mastercoin.org/) and [colored coins](http://coloredcoins.org/) we are going to see even more alt coins built on top of the blockchain.
 
