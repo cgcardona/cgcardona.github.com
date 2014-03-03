@@ -32,15 +32,22 @@ description: ""
 * **Templating:** haml
 * **CSS Preprocessor:** SCSS
 * **Tests** Rspec
-* **Text editor:** Vim/Emacs (Yes, both)
+* **Text editor:** Vim/Emacs (Yes, both), recently [atom.io](http://atom.io)
 * **Computer:** MacIntosh
 * **Terminal:** iTerm
 * **Shell:** oh-my-zsh
 * **IRC:** Colloquy
 
 ## Independent web developer
-### [Cardona Designs](http://cardonadesigns.com) Jan 2008–Present
+### [Gitcoin LLC](http://www.gitcoin.co) Dec 2013–Present
+* **Project Lead:** 
+  * California LLC
+  * Products:
+      * [gitcoin.co](http://www.gitcoin.co)
+      * [Blockchain Explorer](http://www.gitcoin.co/blockchain)
+      * [API](http://www.gitcoin.co/api/intro)
 
+### [Cardona Designs](http://cardonadesigns.com) Jan 2008–Present
 * **Independent web developer:** Project manager, Front/Back end web developer, and creator of several projects
     * AudioFile
     * Boombox.js
@@ -51,7 +58,7 @@ description: ""
     * [DunnBot](https://github.com/cgcardona/dunn)
 
 ## Ruby on Rails Engineer
-### [Cardfree](http://cardfree.com/) April 2013-Present
+### [Cardfree](http://cardfree.com/) April 2013-Jan2014
 * Internal Tools 
     * Ruby on Rails
     * Haml
