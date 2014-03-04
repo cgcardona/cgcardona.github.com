@@ -47,16 +47,6 @@ description: ""
       * [Blockchain Explorer](http://www.gitcoin.co/blockchain)
       * [API](http://www.gitcoin.co/api/intro)
 
-### [Cardona Designs](http://cardonadesigns.com) Jan 2008–Present
-* **Independent web developer:** Project manager, Front/Back end web developer, and creator of several projects
-    * AudioFile
-    * Boombox.js
-    * Boombox for Chrome
-    * [AudiofileSDK](https://github.com/cgcardona/audiofile_sdk)
-    * [Audiofile Genetics Lab](http://audiofile-genetics-lab.herokuapp.com/)
-    * [Cents Us dollars Them](http://cents-us-dollars-them.herokuapp.com/)
-    * [DunnBot](https://github.com/cgcardona/dunn)
-
 ## Ruby on Rails Engineer
 ### [Cardfree](http://cardfree.com/) April 2013-Jan2014
 * Internal Tools 
@@ -121,6 +111,17 @@ description: ""
     * [Harvey Markovitz DC](http://www.hmarkovitzdc.com/)
     * [Laura Lindsey Rosalba](http://lauralindsayrosalba.com/)
 * Wordpress
+
+## Independent web developer
+### [Cardona Designs](http://cardonadesigns.com) Jan 2008–Present
+* **Independent web developer:** Project manager, Front/Back end web developer, and creator of several projects
+    * AudioFile
+    * Boombox.js
+    * Boombox for Chrome
+    * [AudiofileSDK](https://github.com/cgcardona/audiofile_sdk)
+    * [Audiofile Genetics Lab](http://audiofile-genetics-lab.herokuapp.com/)
+    * [Cents Us dollars Them](http://cents-us-dollars-them.herokuapp.com/)
+    * [DunnBot](https://github.com/cgcardona/dunn)
 
 ## Digital Graphics
 
